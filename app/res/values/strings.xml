@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="hint">Пиши заметку здесь...</string>
+    <string name="save">Сохранить</string>
+    <string name="clear">Очистить</string>
+    <string name="saved">Сохранено</string>
+    <string name="cleared">Очищено</string>
+</resources>
